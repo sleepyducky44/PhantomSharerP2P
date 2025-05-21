@@ -87,6 +87,45 @@ Even if you don't know how to code, you can help:
 📄 [Read in English](./MANIFESTO_EN.md)
 
 ---
+---
+
+## 🧪 Ideas y módulos en desarrollo / Ideas & Plugins in Progress
+
+🧭 Este espacio será utilizado para registrar futuras ideas, propuestas por la comunidad o por los desarrolladores.\
+Se mantendrá aquí un registro para su posible implementación como módulos o plugins opcionales, siempre abiertos y gratuitos.
+
+🧭 This section is reserved for future ideas, suggested by the community or developers.\
+It will serve as a log for potential implementation as optional, free, and open-source modules or plugins.
+
+---
+
+### 🌐 Almacenamiento de páginas web descentralizadas / Decentralized Web Archiving
+
+- Podrás almacenar una página web completa en tu propio disco local, de forma cifrada.
+- Si elegís compartirla, se fragmentará, cifrará y replicará en varios nodos de la red, evitando cualquier punto único de falla.
+- Esto permitirá mantener páginas web y foros en línea sin depender de servidores tradicionales ni ser vulnerables a la censura.
+- También se podrá usar como un espacio personal de archivo digital resistente al tiempo.
+
+You will be able to store an entire website locally and encrypted on your hard drive.\
+If shared, it will be fragmented, encrypted, and replicated across multiple peers in the network, avoiding any single point of failure.\
+This allows forums and sites to remain online without relying on traditional hosting, immune to takedowns.
+
+---
+
+### 🤝 Círculos de confianza / Circles of Trust
+
+- Opción para crear listas de amigos o círculos de confianza dentro de Phantom Sharer.
+- Al compartir un archivo, tus contactos podrán recibir una notificación indicando que un amigo compartió algo nuevo.
+- Los archivos siguen siendo accesibles para toda la red. Los círculos no otorgan privilegios, sólo notificaciones y comunicación cifrada.
+- Todo es opcional, privado y cifrado de punto a punto.
+
+Optional feature to create friends lists or trust circles.\
+When sharing a file, your contacts may receive a notification like: "Your friend shared a new file."\
+Files remain fully public; circles only offer notifications and encrypted messaging.\
+Everything is optional, private, and end-to-end encrypted.
+
+---
+
 
 ## ⚠️ ¡Empezamos! / Let's Begin
 
